@@ -45,7 +45,7 @@ public class LabelPrinter implements Printable {
         // Quantity & Price
         y += 15;
         g2d.setFont(plain10);
-        g2d.drawString("නි.දි : " + packedDate, 5, y);
+        g2d.drawString("ඇ.ක.දි : " + packedDate, 5, y);
         g2d.drawString("ප්‍රමාණය: " + quantity, 85, y);
         
 
@@ -62,7 +62,7 @@ public class LabelPrinter implements Printable {
         y += 12;
         g2d.drawString("ප්‍රේමසිරි ට්‍රේඩ් සෙන්ටර්,", 5, y);
         y += 12;
-        g2d.drawString("උනගස්වැව, අනුරාදපුර.", 5, y);
+        g2d.drawString("උනගස්වැව, අනුරාධපුර.", 5, y);
         y += 12;
         g2d.drawString("0770127996", 5, y);
         y += 12;
