@@ -98,20 +98,6 @@ After clicking the print button, the system generates and prints the required nu
 
 ---
 
-# 📁 Project Structure
-
-```text
-Sticker-Label-System/
-│
-├── src/
-├── build/
-├── dist/
-├── nbproject/
-└── README.md
-```
-
----
-
 # 🔥 Highlights
 
 - Real-world project
@@ -162,10 +148,5 @@ This project is licensed under the MIT License.
 
 ---
 
-<div align="center">
-
-### 💻
-
-</div>
 
 
